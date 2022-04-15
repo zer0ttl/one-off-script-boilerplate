@@ -15,3 +15,5 @@ Everything is in the same directory.
 - `setup.py` contains the work that needs to be done during installation.
 
 - `test.py` contains tests, if any.
+
+- You can add additional files such as `helpers.py` which can contain utilites or decorators for your main `script.py`.
